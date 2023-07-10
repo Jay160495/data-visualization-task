@@ -73,6 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+![Screenshot from 2023-07-10 20-04-14](https://github.com/Jay160495/data-visualization-task/assets/102571855/9aa8760d-1466-488a-8986-5a95dfac3c5f)
+
+
+
 
 
 
