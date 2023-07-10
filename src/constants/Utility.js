@@ -3,7 +3,6 @@ export const CalculateMean = (data) => {
    return (data.reduce((sum, cur) => sum + cur, 0) / data.length).toFixed(2)
  }
  
- 
  export const CalculateMode = (data) => {
   const mode = {};
   let max = 0, count = 0;
